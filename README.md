@@ -45,9 +45,9 @@ The project explores a year-long (Jan–Dec 2023) coffee shop sales dataset. Sta
 * Sales are **well distributed across all three store locations**, each contributing \~33% of revenue.
 * **Medium spenders (\$5–\$15)** generate the majority of revenue (55%).
 * **Low spenders (<\$5)** account for 38%, while **high spenders (> \$15)** only contribute 6.5%.
-* Peak sales occur **8–10 AM weekdays**, accounting for \~45% of daily revenue.
+* Peak sales occur **8–10 AM weekdays**.
 * After 7 PM, sales drop significantly across all stores.
-* Top 3 products contribute \~30% of total revenue, dominated by **coffee drinks**.
+* **Coffee** is the dominant product category, accounting for 37.5% of total revenue.
 
 ---
 
@@ -70,17 +70,31 @@ The project explores a year-long (Jan–Dec 2023) coffee shop sales dataset. Sta
 
 ## 📊 Deliverables
 
-📄 SQL Scripts.sql → Using SQL server
-📊 Dashboard-Coffee.png → Power BI Dashboard Image
-📝 README.md → Analysis summary & recommendations(you’re here!)
-
+* 📄 SQL Scripts.sql → Data cleaning & EDA queries
+* 📊 Dashboard-Coffee.png → Power BI Dashboard
+* 📝 README.md → Analysis summary & recommendations
 
 ---
 
-## 👤 Author
+## 🌟 About Me
 
-**\[Greatly Hizkia Manua]**
+Hi! I'm \[Greatly Hizkia Manua], an aspiring Data Analyst with a strong passion for transforming raw data into actionable insights.
+
+This project reflects my ability to work with real-world business data using industry-standard tools like **SQL Server** and **Power BI**.
+
+I focus not only on building dashboards but also on uncovering strategic insights that drive real business value. Whether it’s **data cleaning, visualization, or storytelling**, I aim to deliver meaningful outcomes through data.
+
+---
 
 ## 📬 Get in Touch
-If you'd like to collaborate, discuss this project, or offer feedback,
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/greatlyhizkiamanua/) or explore more of my work on [GitHub](https://github.com/GreatlyHizkia), or reach out via email at greatlymanua@gmail.com  
+Thanks for checking out my project! I'm actively building my portfolio as a Data Analyst and open to internships, freelance projects, or full-time roles.
+If you'd like to collaborate, discuss this project or offer feedback:
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/greatlyhizkiamanua/)
+* Explore more of my work on [GitHub]([https://github.com/username-anda](https://github.com/GreatlyHizkia))
+* Reach out via email at :greatlymanua@gmail.com
+
+---
+
+## 📌 License
+
+This project is for educational and portfolio use only.
