@@ -80,6 +80,7 @@ The project explores a year-long (Jan–Dec 2023) coffee shop sales dataset. Sta
 ## 👤 Author
 
 **\[Greatly Hizkia Manua]**
-📬 Get in Touch
+
+## 📬 Get in Touch
 If you'd like to collaborate, discuss this project, or offer feedback,
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/greatlyhizkiamanua/) or explore more of my work on [GitHub](https://github.com/GreatlyHizkia), or reach out via email at greatlymanua@gmail.com  
