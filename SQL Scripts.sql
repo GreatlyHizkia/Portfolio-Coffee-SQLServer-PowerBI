@@ -194,3 +194,4 @@ GROUP BY
     spender_segment
 ORDER BY
     percentage_of_total_sales DESC;
+
