@@ -86,7 +86,7 @@ I focus not only on building dashboards but also on uncovering strategic insight
 Thanks for checking out my project! I'm actively building my portfolio as a Data Analyst and open to internships, freelance projects, or full-time roles.
 If you'd like to collaborate, discuss this project or offer feedback:
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/greatlyhizkiamanua/)
-* Explore more of my work on [GitHub]([https://github.com/username-anda](https://github.com/GreatlyHizkia))
+* Explore more of my work on [GitHub](https://github.com/GreatlyHizkia)
 * Reach out via email at :greatlymanua@gmail.com
 
 ---
