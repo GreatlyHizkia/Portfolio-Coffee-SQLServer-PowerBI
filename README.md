@@ -6,12 +6,7 @@ A complete exploratory data analysis (EDA) project using **SQL Server** for data
 
 ## 📌 Project Overview
 
-The project explores a year-long (Jan–Dec 2023) coffee shop sales dataset. Starting from raw CSV import into SQL Server, the workflow involved:
-
-* **Data Cleaning:** fixing inconsistent `Total_Bill`, adjusting data types, handling nulls, and removing duplicates.
-* **Feature Engineering:** computed columns for `Hour`, `Month`, and `Day_of_Week`.
-* **Exploratory Analysis:** identifying sales trends by month, hour, product, and store.
-* **Visualization:** building a Power BI dashboard for interactive storytelling.
+This project explores the Coffee Shop Sales dataset by applying a full EDA process. The workflow covers importing raw CSV data into SQL Server, cleaning and preparing the dataset, creating computed columns, checking data quality, and analyzing sales performance. Finally, the cleaned dataset was visualized in Power BI to uncover business insights and provide actionable recommendations.
 
 ---
 
@@ -37,6 +32,7 @@ The project explores a year-long (Jan–Dec 2023) coffee shop sales dataset. Sta
    * Customer spending segmentation
    * Heatmap (Hour × Day)
 5. Built interactive **Power BI Dashboard**.
+6. **Business Insights & Recommendations**
 
 ---
 
@@ -63,16 +59,16 @@ The project explores a year-long (Jan–Dec 2023) coffee shop sales dataset. Sta
 ## 🛠️ Tools & Skills
 
 * **SQL Server:** Data import, cleaning, computed columns, exploratory queries.
-* **Power BI:** Interactive dashboard, DAX measures, visual storytelling.
-* **Excel:** Quick validation & pivot checks.
+* **Power BI:** Interactive dashboard & visualization.
+* **Excel:** Additional checks.
 
 ---
 
 ## 📊 Deliverables
 
-* 📄 SQL Scripts.sql → Data cleaning & EDA queries
-* 📊 Dashboard-Coffee.png → Power BI Dashboard
-* 📝 README.md → Analysis summary & recommendations
+* 📄 SQL Scripts.sql → All SQL queries for cleaning & analysis.
+* 📊 Dashboard-Coffee.png → Power BI interactive Dashboard.
+* 📝 README.md → Project documentation (this file).
 
 ---
 
